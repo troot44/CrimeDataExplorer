@@ -6,6 +6,8 @@
 
 > Dataset: https://data.cityofchicago.org/resource/ijzp-q8t2.json
 
+> I ran the index through the Live Server extension on Visual Studio Code.
+
 ---
 
 ## Project Overview
@@ -36,3 +38,8 @@ This app allows users to:
   - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
   - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch
   - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
+
+## Imporovements I Would Like to Make
+
+- Dropdown menu for crime type selection: Menu with all available crime types for selection.
+- Order by date feature: be able to filter for crimes in a certain time range.
