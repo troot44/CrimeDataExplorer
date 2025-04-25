@@ -2,7 +2,7 @@
 
 > This project is a simple front-end application that allows users to search and display crime data from the City of Chicago's public API based on a selected crime type.
 
-> !!!Note!!!: This project was built strictly for educational purposes. It does not represent advanced technical skill or prior experience with JavaScript. Instead, this was a hands-on way for me to familiarize myself with JavaScript fundamentals, DOM manipulation, and basic API interaction.
+> !!! Note !!!: This project was built strictly for educational purposes. It does not represent advanced technical skill or prior experience with JavaScript. Instead, this was a hands-on way for me to familiarize myself with JavaScript fundamentals, DOM manipulation, and basic API interaction.
 
 > Dataset: https://data.cityofchicago.org/resource/ijzp-q8t2.json
 
