@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Crime Data Explorer</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="container">
+    <h1>🚨 Crime Data Explorer</h1>
+
+    <form id="search-form">
+      <label for="crime-type">Enter Crime Type (e.g., THEFT, ASSAULT, BURGLARY):</label>
+      <input type="text" id="crime-type" required>
+      <button type="submit">Search</button>
+    </form>
+
+    <div id="results-section">
+      <h2>Search Results</h2>
+      <table id="results-table">
+        <thead>
+          <tr>
+            <th>Date</th>
+            <th>Type</th>
+            <th>Description</th>
+            <th>Location</th>
+          </tr>
+        </thead>
+        <tbody id="results-body">
+          <!-- Results will go here -->
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
